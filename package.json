@@ -1,0 +1,26 @@
+{
+  "name": "klapciateapi.js",
+  "version": "1.0.0",
+  "description": "It's a wrapper for klapciate-api.herokuapp.com",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolindekDev/klapciateapi.js.git"
+  },
+  "keywords": [
+    "KlapciateAPI",
+    "Nodejs"
+  ],
+  "author": "SolindekDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SolindekDev/klapciateapi.js/issues"
+  },
+  "homepage": "https://github.com/SolindekDev/klapciateapi.js#readme",
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  }
+}
