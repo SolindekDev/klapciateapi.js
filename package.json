@@ -12,7 +12,8 @@
   },
   "keywords": [
     "KlapciateAPI",
-    "Nodejs"
+    "Nodejs",
+    "API"
   ],
   "author": "SolindekDev",
   "license": "MIT",
@@ -21,6 +22,6 @@
   },
   "homepage": "https://github.com/SolindekDev/klapciateapi.js#readme",
   "dependencies": {
-    "node-fetch": "^3.1.0"
+    "node-fetch": "^2.3.0"
   }
 }
