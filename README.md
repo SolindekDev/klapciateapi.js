@@ -1,4 +1,4 @@
-Wkrótce na npm
+[![https://nodei.co/npm/klapciateapi.js.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/klapciateapi.js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/klapciateapi.js)
 # KlapciateAPI.JS
 Jest to biblioteka która ułatwia używanie [KłapciategoAPI](http://klapciate-api.herokuapp.com/)
 # Jak używać?
